@@ -60,7 +60,7 @@ plt.ylabel("|psi(x)|^2 (1/m)")
 plt.title("Densidade de probabilidade no poco quantico")
 plt.legend()
 plt.tight_layout()
-plt.savefig("densidade_probabilidade.png", dpi=300)
+plt.savefig("densidade_probabilidade.png")
 plt.show()
 
 """ Alguns comentários: 
